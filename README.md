@@ -1,2 +1,2 @@
 # Lan
-I uploaded some programme
+I uploaded some program
